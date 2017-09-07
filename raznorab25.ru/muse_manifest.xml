@@ -1,0 +1,73 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="grandstat.ru" resolutions="1x" timestamp="1493062580031">
+  <folder name="css">
+    <file name="site_global.css" crc="3941695721"/>
+    <file name="index.css" crc="20405455" ref="index"/>
+    <file name="iefonts_index.css" crc="4118340372" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u3244.php" crc="3868807320" ref="index"/>
+    <file name="form-u431.php" crc="4057679238" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="form-u212.php" crc="4235739313" ref="index"/>
+    <file name="form-u237.php" crc="50246970" ref="index"/>
+    <file name="form-u295.php" crc="4184016127" ref="index"/>
+    <file name="form-u373.php" crc="440735924" ref="index"/>
+    <file name="form-u256.php" crc="3989253093" ref="index"/>
+    <file name="form-u397.php" crc="3828082699" ref="index"/>
+    <file name="form-u184.php" crc="267941497" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="raznorab24.ru---разнорабочие,-землекопы,-сварщики-и-прочие-подсобные-рабочие-favicon.ico" crc="207774876" ref="index"/>
+    <file name="logo.jpg" crc="4108527468" seo="true" ref="index"/>
+    <file name="2343542.jpg" crc="522344665" ref="index"/>
+    <file name="4565463532423.png" crc="75239606" seo="true" ref="index"/>
+    <file name="231232.png" crc="407031554" seo="true" ref="index"/>
+    <file name="gjdh436-u107.png" crc="4238795827" ref="index"/>
+    <file name="clock-112x112.png" crc="464443774" seo="true" ref="index"/>
+    <file name="gjdh436-u103.png" crc="4238795827" ref="index"/>
+    <file name="gjdh436-u111.png" crc="4238795827" ref="index"/>
+    <file name="bar-1.png" crc="501240739" seo="true" ref="index"/>
+    <file name="435451200x800-8434.png" crc="4030654747" seo="true" ref="index"/>
+    <file name="gjdh436-u109.png" crc="4238795827" ref="index"/>
+    <file name="34245432.jpg" crc="4048292352" seo="true" ref="index"/>
+    <file name="gjdh436-u113.png" crc="4238795827" ref="index"/>
+    <file name="434635423.jpg" crc="305505200" seo="true" ref="index"/>
+    <file name="gjdh436-u3337.png" crc="4137694001" ref="index"/>
+    <file name="3.png" crc="30648361" seo="true" ref="index"/>
+    <file name="ip.png" crc="429615788" seo="true" ref="index"/>
+    <file name="1.jpg" crc="4146944670" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2.jpg" crc="129842830" seo="true" ref="index"/>
+    <file name="3.jpg" crc="2490208" seo="true" ref="index"/>
+    <file name="4.jpg" crc="3861341109" seo="true" ref="index"/>
+    <file name="5-crop-u7807.jpg" crc="278783170" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="342445353423423.jpg" crc="177376809" seo="true" ref="index"/>
+    <file name="23423424234.png" crc="4286686266" seo="true" ref="index"/>
+    <file name="img0008.png" crc="55198787" ref="index"/>
+    <file name="img0008_hover.png" crc="3833765473" ref="index"/>
+    <file name="close.png" crc="4262069672" ref="index"/>
+    <file name="674566453.jpg" crc="4093592290" seo="true" ref="index"/>
+    <file name="32342342354.jpg" crc="231682517" seo="true" ref="index"/>
+    <file name="434234234234.jpg" crc="355336221" seo="true" ref="index"/>
+    <file name="phone-ico.png" crc="4278618834" seo="true" ref="index"/>
+    <file name="letter-ico.png" crc="106363056" seo="true" ref="index"/>
+    <file name="compass-ico.png" crc="530987130" seo="true" ref="index"/>
+    <file name="60217282.gif" crc="76318759" seo="true" ref="index"/>
+    <file name="244342345343.jpg" crc="3961362397" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="198252195" seo="true" mt="1493062577306" redirect="true"/>
+</manifest>

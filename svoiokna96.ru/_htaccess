@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.svoiokna96\.ru$ [NC]
+RewriteRule ^(.*)$ http://svoiokna96.ru/$1 [R=301,L]
+Redirect 302 /ekb http://ekb.svoiokna96.ru/
